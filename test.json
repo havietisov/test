@@ -1,0 +1,24 @@
+{
+  "name": "test_nft",
+  "symbol": "TEST_SYMBOL",
+  "description": "TEST DESCRIPTION",
+  "seller_fee_basis_points": 700,
+  "image": "https://media.discordapp.net/attachments/427412193483423745/999270150484271195/unknown.png",
+  "attributes": [
+    {
+      "trait_type": "first trait",
+      "value": "first value, maybe 1, maybe 2"
+    },
+    {
+      "trait_type": "second trait",
+      "value": "second value, maybe 12, maybe 14"
+    }],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://media.discordapp.net/attachments/427412193483423745/999270150484271195/unknown.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
